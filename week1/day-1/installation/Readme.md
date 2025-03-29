@@ -1,3 +1,5 @@
+## Day1
+
 ## Install Rust & Cargo (rustup)
 
     Rust is a modern systems programming language designed for safety, performance, and concurrency. It eliminates memory safety issues found in languages like C and C++.
